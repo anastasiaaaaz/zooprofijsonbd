@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Собакам",
+    "slug": "dogs",
+    "icon_url": "assets/img/categories/dog.png",
+    "is_active": true,
+    "display_order": 1,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Кішкам",
+    "slug": "cats",
+    "icon_url": "assets/img/categories/cat.png",
+    "is_active": true,
+    "display_order": 2,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Рибам",
+    "slug": "fishes",
+    "icon_url": "assets/img/categories/fish.png",
+    "is_active": true,
+    "display_order": 3,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Птахам",
+    "slug": "birds",
+    "icon_url": "assets/img/categories/bird.png",
+    "is_active": true,
+    "display_order": 4,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Гризунам",
+    "slug": "rodents",
+    "icon_url": "assets/img/categories/rodent.png",
+    "is_active": true,
+    "display_order": 5,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Рептиліям",
+    "slug": "reptiles",
+    "icon_url": "assets/img/categories/reptile.png",
+    "is_active": true,
+    "display_order": 6,
+    "created_at": "2024-01-15T10:00:00Z"
+  }
+]

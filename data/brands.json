@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Canin",
+    "slug": "royal-canin",
+    "logo_url": "assets/img/brands/royal-canin.png",
+    "description": "Преміальний корм для тварин",
+    "is_active": true,
+    "is_popular": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Purina",
+    "slug": "purina",
+    "logo_url": "assets/img/brands/purina.png",
+    "description": "Якісний корм для домашніх улюбленців",
+    "is_active": true,
+    "is_popular": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Trixie",
+    "slug": "trixie",
+    "logo_url": "assets/img/brands/trixie.png",
+    "description": "Аксесуари та іграшки для тварин",
+    "is_active": true,
+    "is_popular": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Hill's",
+    "slug": "hills",
+    "logo_url": "assets/img/brands/hills.png",
+    "description": "Ветеринарні дієти для тварин",
+    "is_active": true,
+    "is_popular": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Alpha Spirit",
+    "slug": "alpha-spirit",
+    "logo_url": "assets/img/brands/alpha-spirit.png",
+    "description": "Ласощі та догляд для тварин",
+    "is_active": true,
+    "is_popular": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Brit",
+    "slug": "brit",
+    "logo_url": "assets/img/brands/brit.png",
+    "description": "Преміум корми для тварин",
+    "is_active": true,
+    "is_popular": false,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Acana",
+    "slug": "acana",
+    "logo_url": "assets/img/brands/acana.png",
+    "description": "Натуральні корми без зерна",
+    "is_active": true,
+    "is_popular": false,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Josera",
+    "slug": "josera",
+    "logo_url": "assets/img/brands/josera.png",
+    "description": "Німецькі корми для тварин",
+    "is_active": true,
+    "is_popular": false,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Optimeal",
+    "slug": "optimeal",
+    "logo_url": "assets/img/brands/optimeal.png",
+    "description": "Доступні якісні корми",
+    "is_active": true,
+    "is_popular": false,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Savory",
+    "slug": "savory",
+    "logo_url": "assets/img/brands/savory.png",
+    "description": "Ласощі та догляд",
+    "is_active": true,
+    "is_popular": false,
+    "created_at": "2024-01-15T10:00:00Z"
+  }
+]

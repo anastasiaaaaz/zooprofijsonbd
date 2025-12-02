@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "setting_key": "site_name",
+    "setting_value": "ZOOPROFI",
+    "description": "Назва сайту",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "setting_key": "phone_number",
+    "setting_value": "+38 (050) 720 22 32",
+    "description": "Контактний телефон",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "setting_key": "email",
+    "setting_value": "info@zooprofi.ua",
+    "description": "Контактний email",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "setting_key": "delivery_threshold",
+    "setting_value": "1000",
+    "description": "Мінімальна сума для безкоштовної доставки",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "setting_key": "delivery_text",
+    "setting_value": "Безкоштовна доставка від 1000 грн по всій Україні",
+    "description": "Текст про доставку",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "setting_key": "working_hours",
+    "setting_value": "Пн-Сб: 09:00-20:00, Нд: 09:00-18:00",
+    "description": "Графік роботи",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "setting_key": "social_facebook",
+    "setting_value": "https://facebook.com/zooprofi",
+    "description": "Facebook сторінка",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 8,
+    "setting_key": "social_instagram",
+    "setting_value": "https://instagram.com/zooprofi",
+    "description": "Instagram сторінка",
+    "updated_at": "2024-01-15T10:00:00Z"
+  }
+]

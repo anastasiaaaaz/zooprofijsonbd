@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "city": "Львів",
+    "address": "вул. Петрушевича, 5",
+    "latitude": 49.8397,
+    "longitude": 24.0297,
+    "phone": "+38 (032) 234-56-78",
+    "email": "lviv1@zooprofi.ua",
+    "working_hours": "Пн-Сб: 09:00-20:00, Нд: 09:00-18:00",
+    "is_active": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "city": "Львів",
+    "address": "вул. Виговського, 100",
+    "latitude": 49.8328,
+    "longitude": 24.0114,
+    "phone": "+38 (032) 234-56-79",
+    "email": "lviv2@zooprofi.ua",
+    "working_hours": "Пн-Сб: 09:00-20:00, Нд: 09:00-18:00",
+    "is_active": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "city": "Львів",
+    "address": "вул. Городоцька, 61",
+    "latitude": 49.8412,
+    "longitude": 24.0318,
+    "phone": "+38 (032) 234-56-80",
+    "email": "lviv3@zooprofi.ua",
+    "working_hours": "Пн-Сб: 09:00-20:00, Нд: 09:00-18:00",
+    "is_active": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "city": "Івано-Франківськ",
+    "address": "вул. Мазепи, 168А",
+    "latitude": 48.9226,
+    "longitude": 24.7111,
+    "phone": "+38 (034) 234-56-81",
+    "email": "if1@zooprofi.ua",
+    "working_hours": "Пн-Сб: 09:00-20:00, Нд: 10:00-18:00",
+    "is_active": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "city": "Івано-Франківськ",
+    "address": "вул. Грушевського, 37",
+    "latitude": 48.9195,
+    "longitude": 24.7097,
+    "phone": "+38 (034) 234-56-82",
+    "email": "if2@zooprofi.ua",
+    "working_hours": "Пн-Сб: 09:00-20:00, Нд: 10:00-18:00",
+    "is_active": true,
+    "created_at": "2024-01-15T10:00:00Z"
+  }
+]

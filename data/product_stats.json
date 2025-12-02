@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "views_count": 150,
+    "purchases_count": 45,
+    "wishlist_count": 23,
+    "cart_add_count": 67,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "views_count": 89,
+    "purchases_count": 32,
+    "wishlist_count": 15,
+    "cart_add_count": 45,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "views_count": 120,
+    "purchases_count": 38,
+    "wishlist_count": 19,
+    "cart_add_count": 52,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "product_id": 4,
+    "views_count": 67,
+    "purchases_count": 21,
+    "wishlist_count": 8,
+    "cart_add_count": 34,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "product_id": 5,
+    "views_count": 200,
+    "purchases_count": 78,
+    "wishlist_count": 45,
+    "cart_add_count": 89,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "product_id": 6,
+    "views_count": 180,
+    "purchases_count": 65,
+    "wishlist_count": 32,
+    "cart_add_count": 76,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "product_id": 7,
+    "views_count": 95,
+    "purchases_count": 28,
+    "wishlist_count": 12,
+    "cart_add_count": 41,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 8,
+    "product_id": 8,
+    "views_count": 140,
+    "purchases_count": 52,
+    "wishlist_count": 27,
+    "cart_add_count": 63,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 9,
+    "product_id": 9,
+    "views_count": 75,
+    "purchases_count": 18,
+    "wishlist_count": 9,
+    "cart_add_count": 29,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "product_id": 10,
+    "views_count": 110,
+    "purchases_count": 41,
+    "wishlist_count": 21,
+    "cart_add_count": 58,
+    "last_viewed": null,
+    "updated_at": "2024-01-15T10:00:00Z"
+  }
+]

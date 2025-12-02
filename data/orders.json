@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "order_number": "ORD001",
+    "total_amount": 650.00,
+    "status": "completed",
+    "customer_name": "Олександр Петренко",
+    "customer_email": "user1@example.com",
+    "customer_phone": "+380501234567",
+    "delivery_address": "м. Львів, вул. Петрушевича, 5",
+    "payment_method": "card",
+    "created_at": "2024-01-15T10:00:00Z"
+  }
+]
